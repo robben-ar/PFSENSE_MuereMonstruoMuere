@@ -1,2 +1,10 @@
 # PFSENSE_MuereMonstruoMuere
 ----------------------------
+Plantilla para portal cautivo del Firewall pFSense para funcionar con funcion de entrega de "vourchers".
+Esta funcion de vouchers se debe activar en el pFSense.
+
+
+
+----------------------------
+
+Link tutorial vouchers: https://www.youtube.com/watch?v=8UUaUhPz_SQ
