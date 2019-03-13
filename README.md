@@ -8,4 +8,4 @@ Esta funcion de vouchers se debe activar en el pFSense.
 
 ----------------------------
 
-Link tutorial vouchers: https://www.youtube.com/watch?v=8UUaUhPz_SQ
+Link para configurar los vouchers en el pFSense: https://www.youtube.com/watch?v=8UUaUhPz_SQ
